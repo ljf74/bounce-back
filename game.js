@@ -83,8 +83,8 @@ class PlayerData
     {
         this.health = 30;
         this.healthMax = 100;
-        this.boomerangs = 10;
-        this.bigBoomerangs = 10;
+        this.boomerangs = 0;
+        this.bigBoomerangs = 10000000000000000000000000000000000000;
         this.coins = 0;
     }
 }
